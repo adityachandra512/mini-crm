@@ -30,7 +30,7 @@ This is a Mini CRM (Customer Relationship Management) Application developed usin
 1. **Clone the repository**:
 
     ```bash
-    git clone https://github.com/your-username/mini-crm-app.git
+    git clone https://github.com/adityachandra512/mini-crm.git
     ```
 
 2. **Install server dependencies**:
